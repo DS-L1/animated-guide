@@ -1,0 +1,10 @@
+#root {
+    border: 1px solid crimson;
+}
+
+body {
+    background-color: antiquewhite;
+    min-height: 100vh;
+    margin: 0;
+    box-sizing: border-box;
+}
